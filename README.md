@@ -1,6 +1,6 @@
 # Pandoc Assignment template
 
-I am using this template for a quick homework template from markdown sources since i love writing in markdown. The source and template are a modification based on [This work]([https://link](https://github.com/Wandmalfarbe/pandoc-latex-template))
+I am using this template for a quick homework template from markdown sources since i love writing in markdown. The source and template are a modification based on [This work](https://github.com/Wandmalfarbe/pandoc-latex-template)
 
 To produce pdf
 
